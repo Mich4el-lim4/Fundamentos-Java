@@ -1,3 +1,5 @@
+package src;
+
 public class Endereco {
     String rua;
     String cidade;

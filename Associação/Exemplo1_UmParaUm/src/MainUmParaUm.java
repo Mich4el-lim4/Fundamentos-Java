@@ -1,3 +1,5 @@
+package src;
+
 public class MainUmParaUm {
     public static void main(String[] args) {
         Endereco end = new Endereco("Rua das Flores", "Curitiba");

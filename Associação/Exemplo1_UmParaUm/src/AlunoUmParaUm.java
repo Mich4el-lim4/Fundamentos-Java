@@ -1,3 +1,5 @@
+package src;
+
 public class AlunoUmParaUm {
     String nome;
     Endereco endereco;
