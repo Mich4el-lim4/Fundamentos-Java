@@ -1,3 +1,5 @@
+package src;
+
 public class MainMuitosParaMuitos {
     public static void main(String[] args) {
         AlunoMuitosParaMuitos maria = new AlunoMuitosParaMuitos("Maria");

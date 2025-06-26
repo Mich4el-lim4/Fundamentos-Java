@@ -1,3 +1,5 @@
+package src;
+
 public class MainUmParaMuitos {
     public static void main(String[] args) {
         TurmaUmParaMuitos turma = new TurmaUmParaMuitos("Java Básico");

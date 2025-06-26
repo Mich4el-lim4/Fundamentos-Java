@@ -1,3 +1,5 @@
+package src;
+
 public class AlunoSimples {
     String nome;
 
